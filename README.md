@@ -35,7 +35,7 @@ python snake_ppo_v7.py
 | v5 | Torus convolutions - fixes wrap-collision deaths | ~65 | 91 |
 | v6 | Frame stacking × 4 - worse, dropped | ~47 | 86 |
 | v7 | Flood fill reward + gradient body + attention + LSTM | ~52 | 95 |
-| **GA** | **Hand-crafted raycasts + BFS inputs** | **~60** | **150+** |
+| [**GA**](https://github.com/homelabdude/genetic-ai-snake) | **Hand-crafted raycasts + BFS inputs** | **~60** | **110+** |
 ## Read the write-up
 
 Full devlog with results and commentary [here](https://homelabdude.com/posts/ai-learns-to-play-snake-part-2/)
